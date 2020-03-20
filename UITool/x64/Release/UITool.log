@@ -1,0 +1,14 @@
+﻿  MainFrm.cpp
+d:\dxsolution\include\dxcore0\sydxhelperex.h(3): fatal error C1083: 포함 파일을 열 수 없습니다. 'd3dx11.h': No such file or directory
+  sample.cpp
+d:\dxsolution\include\dxcore0\sydxhelperex.h(3): fatal error C1083: 포함 파일을 열 수 없습니다. 'd3dx11.h': No such file or directory
+  syUIForm.cpp
+d:\dxsolution\include\dxcore0\sydxhelperex.h(3): fatal error C1083: 포함 파일을 열 수 없습니다. 'd3dx11.h': No such file or directory
+  syUIToolPane.cpp
+d:\dxsolution\include\dxcore0\sydxhelperex.h(3): fatal error C1083: 포함 파일을 열 수 없습니다. 'd3dx11.h': No such file or directory
+  UITool.cpp
+d:\dxsolution\include\dxcore0\sydxhelperex.h(3): fatal error C1083: 포함 파일을 열 수 없습니다. 'd3dx11.h': No such file or directory
+  UIToolDoc.cpp
+d:\dxsolution\include\dxcore0\sydxhelperex.h(3): fatal error C1083: 포함 파일을 열 수 없습니다. 'd3dx11.h': No such file or directory
+  UIToolView.cpp
+d:\dxsolution\include\dxcore0\sydxhelperex.h(3): fatal error C1083: 포함 파일을 열 수 없습니다. 'd3dx11.h': No such file or directory
